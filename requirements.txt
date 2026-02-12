@@ -1,0 +1,2 @@
+# Aucune dépendance externe - que du Python standard
+# (socket, threading, json, struct, uuid, os, time)
